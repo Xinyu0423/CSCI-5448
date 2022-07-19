@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13f230dc-7ad3-42de-832d-9eed454f4285" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/Assignment5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/Assignment5.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/project.xcworkspace/xcuserdata/jiangxinyu.xcuserdatad/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/CSCI-1300.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/.main.cpp.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment 8 proposal​ ​.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment4.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment5.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment6.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Assignment8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/BankingMain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/BankingMain.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Helloworld.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Helloworld.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/History.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/History.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/MISSPELLED.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/MISSPELLED2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Recitation 10.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Screenshot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Service.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Service.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/SolarSystem_main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/SolarSystem_main.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/SpellChecker.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/SpellChecker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestRecition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestRecition.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestRecition5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestRecition5.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestReicition7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/TestReicition7.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/Text2English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/VALID_WORDS_3000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/WordCounts.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/WordCounts.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/YES.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/assignment1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/assignment1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/exChangeRate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/main.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/mainAssignment3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/mainAssignment3.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/part5txt.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/planet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/planet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/practQ3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/practQ3.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problem1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problem2.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problem4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problemTemp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/problemTemp.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/recitation3primes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/recitation3primes.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/solarSystem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/solarSystem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testArrayPPT.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testArrayPPT.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testPract1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testPract1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testRecition3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-1300/CSCI-1300/testRecition3.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/CSCI-2270.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/.Assignment5.cpp.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Analysis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment2.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment3.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment4.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment5.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment6.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment6Movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment7Writeup.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment8.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Assignment9.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Average .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Average Graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/CommunicationNetwork.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/CommunicationNetwork.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Exam2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Exam2.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/ExamReview1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/ExamReview1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/ExamReview2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/ExamReview2.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Final Project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/FinalProjectChart.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Graph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Graph.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/GraphRec12StarterCode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/GraphRec12StarterCode.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/HungerGames_edit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_24.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_24.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_26.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_26.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_29.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_29.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_31.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise01_31.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_05.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_09.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_09.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_09DoubleLL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_09DoubleLL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_12.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_14.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_19.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_19.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_28.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise02_28.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_02.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_02.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_09.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_09.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_20.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExercise04_20.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExerciseGraph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExerciseGraph.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExericise04_27.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassExericise04_27.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassReview.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/InClassReview.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Midterm1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Midterm1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/MovieTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/MovieTree.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/MovieTree.hpp.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Queue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/QueueExercise.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/QueueExercise.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Reciatation14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Reciatation14.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation1.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation14.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation2Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation3.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation4.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation5.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/Recitation6.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/STD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/STLTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/STLTree.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/as1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/assignment1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/assignment1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/carOutput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/carfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/firstVim.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/garageSale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/garageSale1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/garageTest1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/ignoreWords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/messageIn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/patientData2270.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectHeap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectHeap.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectLL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectLL.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectMain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/projectMain.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/starter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/starter.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/studentInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2270/CSCI-2270/zombieCities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2400/CSCI-2400.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2400/CSCI-2400.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2400/CSCI-2400.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2400/CSCI-2400.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCI-2400/CSCI-2400/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCS1300-Assignment3.playground/Contents.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCS1300-Assignment3.playground/contents.xcplayground" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CSCS1300-Assignment3.playground/playground.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/recitation2.cpp.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp.xcodeproj/xcuserdata/jiangxinyu.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Assets.xcassets/AppIcon.appiconset/recitation2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Assets.xcassets/AppIcon.appiconset/recitation2.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cpp/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cppTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cppTests/recitation2_cppTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cppUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../recitation2.cpp/recitation2.cppUITests/recitation2_cppUITests.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xinyu/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xinyu/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Canine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Feline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+              <folding>
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#75#76#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Feline.java" />
+        <option value="$PROJECT_DIR$/src/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/Lion.java" />
+        <option value="$PROJECT_DIR$/src/Cat.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="52" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="csci5448_project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csci5448_project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/csci3155_s19_project1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f230dc-7ad3-42de-832d-9eed454f4285" name="Default Changelist" comment="" />
+      <created>1599745865737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599745865737</updated>
+      <workItem from="1599745867247" duration="3911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3911000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="52" width="1280" height="723" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wolf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZooEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Canine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Feline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Assignment2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
